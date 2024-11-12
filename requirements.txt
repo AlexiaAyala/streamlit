@@ -1,8 +1,8 @@
+firebase-admin
 streamlit
 altair
 pandas
 numpy
-google
 # matplotlib
 # seaborn
 # plotly
